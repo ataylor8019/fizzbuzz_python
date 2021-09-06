@@ -34,7 +34,7 @@ for i in range(1,101):
 
     
     # If a number is a factor of 3 and 5, the execution will fall 
-    # through both of the if statements starting at line 25. The variable
+    # through both of the if statements starting at line 28. The variable
     # fizzbuzz is always declared as an empty string at this point in the script.
     # As the test for being a factor of 3 is always done before the
     # test for being a factor of 5, the resulting output is "fizzbuzz".
